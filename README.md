@@ -1,48 +1,28 @@
-<!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
+<h1 align="center">Hello 👋, I'm Manisha Sasmitha </h1>
+<h3 align="center">A Passionate Developer From Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-# <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SahasTech22&label=Profile%20views&color=0e75b6&style=flat" alt="sahasnethsara75" /> </p>
 
-<div align="center">
-<img height="165px" src='https://github-readme-stats.vercel.app/api?username=PikaBotz&show_icons=true&include_all_commits=true&theme=mere&hide_border=true' align="right">
-</div>
+- 🔭 I’M Currently Working On **Whatsapp Bots**
 
-<div align="left">
-Hello babies, my name is 𝕻𝖎𝖐𝖆𝖈𝖍𝖚 and I'm a bot developer. Currently working on WhatsApp bots 🎸✨
-</div>
+- 🌱 I’M Currently Learning **____**
 
-##
-## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
-* [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽](https://api.whatsapp.com/send?phone=+918811074852)
-<br>
+- 💬 Ask Me About **Whatsapp Bots**
 
-* I am from India, Assam.
-* Cool Bots development.
-* I'm studying at Dibrugarh. 
+- 📫 How To Reach Me **sahasnethsara75@gmail.com**
 
-<br>
+- ⚡ Fun Fact **I Think I Am Funny😂**
 
-
-| ![Pika's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikaBotz&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PikaBotz&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
-| ----- | ----- |
-   
-
-# > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
-<p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="95" hight="45">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+- <h3 align="left">Contact us:</h3><p>   <a href="https://wa.me/94718913389" target="blank"><img align="center" src="https://telegra.ph/file/1448f0458c3c64900f49c.png" alt="https://wa.me/94765527900" height="50" width="50" /></a> 
 </p>
 
-# > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
+<div align="left">
+<a href="https://github.com/SahasTech22?tab=languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahasTech22&theme=highcontrast&layout=compact" alt="Languages">
+</a>
+  
+<p align="center"> <a href="https://github.com/SahasTech22"><img src="https://github-readme-stats.vercel.app/api?username=SahasTech22&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Anya-pika-MD-v2&theme=vision-friendly-dark)](https://github.com/PikaBotz/Anya-pika-MD-v2) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Foxy_shadow-MD&theme=vision-friendly-dark)](https://github.com/PikaBotz/Foxy_shadow-MD) |
-| ----- | ----- |
-
-<!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
-
-# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![𝕻𝖎𝖐𝖆's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PikaBotz&theme=high-contrast)](https://github.com/PikaBotz)
-
-![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SahasTech22&limit=5&theme=dark&combine_all_yearly_contributions=true)
