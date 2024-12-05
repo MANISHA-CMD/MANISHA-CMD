@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="README1.jpg" width="200px"/>
+  <img src="README1.jpeg" width="200px"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm MANISHA SASMITHA</h1>
