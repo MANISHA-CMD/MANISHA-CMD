@@ -26,4 +26,4 @@
 [![](https://visitcount.itsvg.in/api?id=MANISHA-CMD&label=Select%20Icon&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="center">
-<img src="./Android/database/manisha3.gif" alt="Loading..." width="500"/>
+<img src="./Android/database/manisha3.gif" alt="Loading..." width="1000"/>
