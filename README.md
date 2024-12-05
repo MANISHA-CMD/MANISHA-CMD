@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="README1.jpeg" width="200px"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm MANISHA SASMITHA</h1>
 <h3 align="center">A passionate frontend developer from srilanka</h3>
 
