@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANISHA SASMITHA</h1>
 <h3 align="center">A passionate frontend developer from srilanka</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=thank+you+for+visiting+my+profile" alt="Typing SVG" /></a>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 💬 Ask me about **Simple Whatsapp Bot**
