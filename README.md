@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm MANISHA SASMITHA</h1>
 <h3 align="center">A passionate frontend developer from srilanka</h3>
 
+<p align="center">
+<img src="./Android/database/manisha3.gif" alt="Loading..." width="320"/>
+
 - 💬 Ask me about **Simple Whatsapp Bot**
 
 - 📫 How to reach me **manishasasmitha275@gmail.com**
