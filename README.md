@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm MANISHA SASMITHA</h1>
 <h3 align="center">A passionate frontend developer from srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MANISHA-CMD&label=Profile%20views&color=0e75b6&style=flat" alt="manishasasmitha275" /> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MANISHA-CMD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MANISHA-CMD&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MANISHA-CMD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="./Android/database/manisha3.gif" alt="Loading..." width="320"/>
+---
+[![](https://visitcount.itsvg.in/api?id=MANISHA-CMD&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 💬 Ask me about **Simple Whatsapp Bot**
 
