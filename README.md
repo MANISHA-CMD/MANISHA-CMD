@@ -23,8 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MANISHA-CMD&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=MANISHA-CMD&label=Select%20Icon&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://visitcount.itsvg.in">
