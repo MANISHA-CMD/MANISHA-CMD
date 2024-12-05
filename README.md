@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="/Android/database/manisha1.jpg" width="200px"/>
-</p>
-
+<img src="./Android/database/manisha1.jpg" alt=" width="320"/>
 <h1 align="center">Hi 👋, I'm MANISHA SASMITHA</h1>
 <h3 align="center">A passionate frontend developer from srilanka</h3>
 
