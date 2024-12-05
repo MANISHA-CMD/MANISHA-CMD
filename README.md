@@ -26,3 +26,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=MANISHA-CMD&label=Select%20Icon&icon=4&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MANISHA-CMD&label=Select%20Icon&icon=7&pretty=false" />
+</a>
