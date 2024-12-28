@@ -9,7 +9,7 @@
 - 📫 How to reach me **manishasasmitha672@gmail.com**
 
 - ⚡ Fun fact **MANISHA MD**
-- <h3 align="left">Contact us:</h3><p> <a href="https://wa.me/94759934522?𝐡𝐞𝐥𝐩" target="blank"><img align="center" src="https://telegra.ph/file/1448f0458c3c64900f49c.png" alt="https://wa.me/94759934522?𝐡𝐞𝐥𝐩" height="50" width="50" /></a> 
+- <h3 align="left">Contact us:</h3><p> <a href="https://wa.me/94759934522𝐢" target="blank"><img align="center" src="https://telegra.ph/file/1448f0458c3c64900f49c.png" alt="https://wa.me/94759934522𝐢" height="50" width="50" /></a> 
 </p>
 
 
